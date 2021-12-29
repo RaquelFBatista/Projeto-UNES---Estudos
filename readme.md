@@ -1,0 +1,2 @@
+Olá! Esse foi o primeiro projeto proposto no curso de desenvolvimento Web que considera apenas os conhecimentos adquiridos até o momento e, por isso, foram desenvolvidos utilizando tabelas (embora não seja recomendado)
+O próximo tópico a ser estudado será CSS não sendo mais necessária a utilização de tabelas, rs :)
